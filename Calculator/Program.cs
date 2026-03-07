@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Первая пограмма на C#");
+﻿#include <math.h>
+
+Console.WriteLine("Первая пограмма на C#");
 Console.WriteLine("Консольный калькулятор");
 Console.WriteLine();
 
@@ -56,6 +58,33 @@ else if (operationChoice == "3")
 }
 
 else if (operationChoice == "4")
+{
+    Console.WriteLine("Выберите число для возведения в степень");
+    Console.Writeline("1 или 2");
+    string? input3 = Console.ReadLine();
+    double numberchoice = 0;
+    if (!double.TryParse(input3, out numberchoice))
+    {
+        Console.WriteLine("Это не число");
+        return;
+    }
+    if (numberchoice = "1")
+    {
+        Console.WriteLine("Введите степень для возведения");
+        int count = int.Parse(Console.ReadLine());
+        result = pow(number1,count);
+        Console.WriteLine($"{number1} ^ {count} = {result}"
+    }
+    else
+    {
+        Console.WriteLine("Введите степень для возведения");
+        int count = int.Parse(Console.ReadLine());
+        result = pow(number2,count);
+        Console.WriteLine($"{number2} ^ {count} = {result}");
+    }
+}
+
+else if (operationChoice == "5")
 {
     if (number2 != 0)
     {
