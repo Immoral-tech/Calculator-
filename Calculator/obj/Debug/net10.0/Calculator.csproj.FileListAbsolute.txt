@@ -13,3 +13,33 @@ E:\Projects\Calculator (C#)\Calculator\obj\Debug\net10.0\refint\Calculator.dll
 E:\Projects\Calculator (C#)\Calculator\obj\Debug\net10.0\Calculator.pdb
 E:\Projects\Calculator (C#)\Calculator\obj\Debug\net10.0\Calculator.genruntimeconfig.cache
 E:\Projects\Calculator (C#)\Calculator\obj\Debug\net10.0\ref\Calculator.dll
+D:\Projects\.Net\Calculator-\Calculator\bin\Debug\net10.0\Calculator.exe
+D:\Projects\.Net\Calculator-\Calculator\bin\Debug\net10.0\Calculator.deps.json
+D:\Projects\.Net\Calculator-\Calculator\bin\Debug\net10.0\Calculator.runtimeconfig.json
+D:\Projects\.Net\Calculator-\Calculator\bin\Debug\net10.0\Calculator.dll
+D:\Projects\.Net\Calculator-\Calculator\bin\Debug\net10.0\Calculator.pdb
+D:\Projects\.Net\Calculator-\Calculator\obj\Debug\net10.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\.Net\Calculator-\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfoInputs.cache
+D:\Projects\.Net\Calculator-\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfo.cs
+D:\Projects\.Net\Calculator-\Calculator\obj\Debug\net10.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Projects\.Net\Calculator-\Calculator\obj\Debug\net10.0\Calculator.sourcelink.json
+D:\Projects\.Net\Calculator-\Calculator\obj\Debug\net10.0\Calculator.dll
+D:\Projects\.Net\Calculator-\Calculator\obj\Debug\net10.0\refint\Calculator.dll
+D:\Projects\.Net\Calculator-\Calculator\obj\Debug\net10.0\Calculator.pdb
+D:\Projects\.Net\Calculator-\Calculator\obj\Debug\net10.0\Calculator.genruntimeconfig.cache
+D:\Projects\.Net\Calculator-\Calculator\obj\Debug\net10.0\ref\Calculator.dll
+E:\Projects\123\Calculator-\Calculator\bin\Debug\net10.0\Calculator.exe
+E:\Projects\123\Calculator-\Calculator\bin\Debug\net10.0\Calculator.deps.json
+E:\Projects\123\Calculator-\Calculator\bin\Debug\net10.0\Calculator.runtimeconfig.json
+E:\Projects\123\Calculator-\Calculator\bin\Debug\net10.0\Calculator.dll
+E:\Projects\123\Calculator-\Calculator\bin\Debug\net10.0\Calculator.pdb
+E:\Projects\123\Calculator-\Calculator\obj\Debug\net10.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\123\Calculator-\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfoInputs.cache
+E:\Projects\123\Calculator-\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfo.cs
+E:\Projects\123\Calculator-\Calculator\obj\Debug\net10.0\Calculator.csproj.CoreCompileInputs.cache
+E:\Projects\123\Calculator-\Calculator\obj\Debug\net10.0\Calculator.sourcelink.json
+E:\Projects\123\Calculator-\Calculator\obj\Debug\net10.0\Calculator.dll
+E:\Projects\123\Calculator-\Calculator\obj\Debug\net10.0\refint\Calculator.dll
+E:\Projects\123\Calculator-\Calculator\obj\Debug\net10.0\Calculator.pdb
+E:\Projects\123\Calculator-\Calculator\obj\Debug\net10.0\Calculator.genruntimeconfig.cache
+E:\Projects\123\Calculator-\Calculator\obj\Debug\net10.0\ref\Calculator.dll
